@@ -457,4 +457,17 @@ em {
     display:inline;
 
   }
+  
+  .main {
+  height:1200px;
+  width:100%;
+  background-image: url("bg.jpg");
+  background-position: center;
+  background-size: cover;
+  display:block;
+  animation-name: rotate;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+
+}
 }
