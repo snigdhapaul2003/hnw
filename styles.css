@@ -4,10 +4,10 @@ body {
 
 .main {
   height:2000px;
-  width:100%;
-  //background-image: url("bg.jpg");
+  width:100vw;
+/*   background-image: url("bg.jpg"); */
   background-image:linear-gradient(45deg,blue,powderblue,pink,red);
-  //background-repeat: no-repeat;
+/*   background-repeat: no-repeat; */
   background-position: center;
   background-size: cover;
   display:block;
@@ -460,7 +460,7 @@ em {
 
   }
   
-  .main {
+/*   .main {
   height:1200px;
   width:100%;
   background-image: url("bg.jpg");
@@ -471,5 +471,5 @@ em {
   animation-duration: 2s;
   animation-iteration-count: 1;
 
-}
+} */
 }
